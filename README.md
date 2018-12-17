@@ -17,4 +17,6 @@ array of data and the table name, and the library will take care of the rest for
 
 The driver.java file provides an example use case.
 
+Here is a video showing it functional
+https://www.youtube.com/watch?v=A0rXM9XBr8w
 
