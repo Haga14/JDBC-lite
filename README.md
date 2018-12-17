@@ -12,8 +12,8 @@ Feel free to tweek, or completely change it.
 USAGE:
 
 This allows you to create, read, update and delete databases, database tables, and table data of a MySQL database without ever handling 
-any MySQL or JDBC. Simply provide it with an array of column names, an array of column types (only three supported at this poin) and an
-array of data and the library will take care of the rest for you, from connection management to error handling.
+any MySQL or JDBC. Simply provide it with an array of column names, an array of column types (only three supported at this point), an
+array of data and the table name, and the library will take care of the rest for you, from connection management to error handling.
 
 The driver.java file provides an example use case.
 
